@@ -1,4 +1,4 @@
-a = 5
+a = 13
 b = 10
-suma = a + b + 5
+suma = a + b 
 print(f"La Suma es: {suma}")
